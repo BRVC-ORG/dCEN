@@ -1,1 +1,1 @@
-# dCEN (decentralized Chains Ethical Networking)
+# dCEN (decentralized Chains Ethical Networking) Certificate
